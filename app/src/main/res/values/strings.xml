@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GatoActivity</string>
+    <string name="winner">Winner</string>
+    <string name="turn">Turn:</string>
+    <string name="bienvenidos">Bienvenidos</string>
+    <string name="imagen">Imagen del gato</string>
+</resources>
